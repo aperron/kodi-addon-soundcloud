@@ -17,7 +17,7 @@
         <license>MIT</license>
         <forum>https://forum.kodi.tv/showthread.php?tid=206635</forum>
         <website>https://soundcloud.com</website>
-        <source>https://github.com/jaylinski/kodi-addon-soundcloud</source>
+        <source>https://github.com/aperron/kodi-addon-soundcloud</source>
         <news>3.0.0 (2019-06-01)
 [new] complete rewrite
 [new] python 3.6 compatibility
